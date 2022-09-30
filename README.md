@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, R and MySQL**
 
-- 📝 I regularly write articles on https://tanvimadhaw.wordpress.com
+- 📝 I sometimes write articles on https://tanvimadhaw.wordpress.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
