@@ -8,9 +8,12 @@
 
 - 🔭 I’m currently working on **Auto-Tweeting Bot**
 
+
 - 🌱 I’m currently learning **Python, R and MySQL**
 
+
 - 📝 I sometimes write articles on https://tanvimadhaw.wordpress.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
