@@ -4,9 +4,9 @@
 **t-madhaw/t-madhaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 <h1 align="center">Hi 👋, I'm Tanvi Madhaw</h1>
-<h3 align="center">A passionate economics student from India</h3>
+<h3 align="center">An economics student from who loves programming and social data science</h3>
 
-- 🔭 I’m currently working on **Aera-Simulation**
+- 🔭 I’m currently working on **Auto-Tweeting Bot**
 
 - 🌱 I’m currently learning **Python, R and MySQL**
 
