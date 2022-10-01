@@ -1,11 +1,10 @@
 ![Unknown](https://user-images.githubusercontent.com/43312932/193399382-53bcaf95-c603-4b8e-ba4a-0096e7013169.png)
 
 #### I am an Economics student with a knack for programming
-![I am an Economics student with a knack for programming](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am in my second year at Delhi University where I study Economics with a minor in Maths.
 
-I am a hobbyist programmer and would like to venture in the field of Social Data Science in the future. Currently, I am working on projects in the domain of data analysis and, automation, with a dash of AI.
+I am a hobbyist programmer and would like to venture in the field of Social Data Science in the future. Currently, I am working on projects in the domain of data analysis and automation, with a dash of AI.
 
 
 Skills: Python, R, MySQL, and MS Suite
