@@ -4,13 +4,12 @@
 
 I am in my second year at Delhi University where I study Economics with a minor in Maths.
 
-I am a hobbyist programmer and would like to venture in the field of Social Data Science in the future. Currently, I am working on projects in the domain of data analysis and automation, with a dash of AI.
+I am a hobbyist programmer and would like to venture in the field of Social Data Science in the future. Currently, I am working on projects in the domain of macroeconomic data analysis.
 
 
 Skills: Python, R, MySQL, and MS Suite
 
-- 🔭 I’m currently working on an Island Simulation to study various population Parameters, and an Auto-Tweeting Bot. 
-- 🌱 I’m currently learning SciKit, Tensorflow and Git 
+- 🌱 I’m currently learning Tableau, and Selenium.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/t-madhaw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanvi-madhaw/)  
